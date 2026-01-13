@@ -18,3 +18,6 @@ window.addEventListener("scroll", () => {
         }
     });
 });
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("/portfolio_website/service-worker.js");
+}

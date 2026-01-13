@@ -1,9 +1,9 @@
 {
   "name": "Sonali Portfolio",
   "short_name": "Portfolio",
-  "start_url": "index.html",
+  "start_url": "/portfolio_website/",
+  "scope": "/portfolio_website/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd"
- 
 }
